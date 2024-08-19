@@ -1,8 +1,8 @@
 ## Juho Han
 
+I'm into combining construction and AI.
 
-
-My repository features a diverse range of projects, including personal studies, class assignments, and those focused on the construction domain
+My repository has a mix of projects like personal studies, class assignments, and some interesting work related to construction field.
 
 <!--
 **juho0421/juho0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

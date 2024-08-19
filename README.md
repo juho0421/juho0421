@@ -1,6 +1,5 @@
 ## Juho Han
 
-I'm into combining construction and AI.
 
 My repository has a mix of projects like personal studies, class assignments, and some interesting work related to construction field.
 

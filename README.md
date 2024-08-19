@@ -1,4 +1,8 @@
-## Hi there 👋
+## Juho Han
+
+
+
+My repository features a diverse range of projects, including personal studies, class assignments, and those focused on the construction domain
 
 <!--
 **juho0421/juho0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
